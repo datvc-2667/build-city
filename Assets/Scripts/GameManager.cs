@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
 
     private GameObject player;
 
-    private Vector3 posDefault = new Vector3(20, 2, 2);
+    private Vector3 posDefault = new Vector3(40, 0.5f, -80);
 
     private Quaternion quaternion;
 
